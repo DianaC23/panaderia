@@ -1,0 +1,2 @@
+Paleta de colores
+FF1D6, 8B4A2F, F58220,FFA94D,E85D4A
